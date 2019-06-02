@@ -1,10 +1,10 @@
 {
-    "name": "hamidjavadi/utility",
-    "description": "A small library for utility classes",
+    "name": "hamidjavadi/guid",
+    "description": "A small class to genereate uuid",
     "keywords": ["utility", "composer", "package"],
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Hamid javadi",
@@ -12,11 +12,11 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "hamidjavadi\\utility\\": "src/"
-        }
+        "classmap": [
+            "src/"
+        ]
     },
     "require": {
-        "php": ">=7.1"
+        "php": ">=5.3.0"
     }
 }

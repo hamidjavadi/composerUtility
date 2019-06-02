@@ -16,10 +16,6 @@ class ComposerStaticInit565389e818169e990de9f686c17d9036
         array (
             'phpDocumentor\\Reflection\\' => 25,
         ),
-        'h' => 
-        array (
-            'hamidjavadi\\utility\\' => 20,
-        ),
         'W' => 
         array (
             'Webmozart\\Assert\\' => 17,
@@ -41,10 +37,6 @@ class ComposerStaticInit565389e818169e990de9f686c17d9036
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-        ),
-        'hamidjavadi\\utility\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
         'Webmozart\\Assert\\' => 
         array (
@@ -78,6 +70,7 @@ class ComposerStaticInit565389e818169e990de9f686c17d9036
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',
         'File_Iterator_Facade' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Facade.php',
         'File_Iterator_Factory' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Factory.php',
+        'Hamidjavadi\\guid' => __DIR__ . '/../..' . '/src/guid.php',
         'PHPUnit\\Exception' => __DIR__ . '/..' . '/phpunit/phpunit/src/Exception.php',
         'PHPUnit\\Framework\\Assert' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert.php',
         'PHPUnit\\Framework\\AssertionFailedError' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/AssertionFailedError.php',

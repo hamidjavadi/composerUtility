@@ -1,11 +1,11 @@
 <?php 
 
-namespace Hamidjavadi\Utility;
+namespace Hamidjavadi;
 
 
 class guid {
 
-   public function method1($param1){
+   static function test() {
 			return "Hello World";
    }
 
