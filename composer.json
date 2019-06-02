@@ -1,6 +1,6 @@
 {
     "name": "hamidjavadi/guid",
-    "description": "simple class to genereate uuid",
+    "description": "simple class to generate uuid",
     "keywords": ["utility", "composer", "package"],
     "license": "MIT",
     "type": "library",
