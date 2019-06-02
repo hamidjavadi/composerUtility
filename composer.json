@@ -4,7 +4,7 @@
     "keywords": ["utility", "composer", "package"],
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Hamid javadi",

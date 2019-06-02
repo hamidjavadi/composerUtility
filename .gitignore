@@ -1,3 +1,3 @@
-vendor/
-tests/
-composer.lock
+/vendor
+/tests
+/composer.lock
