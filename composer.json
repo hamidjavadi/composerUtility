@@ -3,19 +3,20 @@
     "description": "A small library for utility classes",
     "keywords": ["utility", "composer", "package"],
     "license": "MIT",
+    "type": "library",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Hamid javadi",
             "email": "javadi.freelancer@gmail.com"
         }
     ],
-    "type": "library",
-    "require": {
-		"php": ">=7.1"
-    },
     "autoload": {
         "psr-4": {
             "hamidjavadi\\utility\\": "src/"
         }
+    },
+    "require": {
+        "php": ">=7.1"
     }
 }
